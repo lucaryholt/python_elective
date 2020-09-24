@@ -71,6 +71,9 @@ class Board:
     def gameWon(self):
         return self.pig.x_loc == self.bird.x_loc and self.pig.y_loc == self.bird.y_loc
 
+#sometimes start with bird and pig in same local - auto win
+#can crash game by moving beyond board
+
 b = Bird()
 p = Pig()
 
