@@ -1,0 +1,33 @@
+Function "add" was called on timestamp: 1603979070.8782356. 
+Result was: 3
+
+Function "add" was called on timestamp: 1603979074.3305423. 
+Result was: 3
+
+Function "add" was called on timestamp: 1603979085.4965208. 
+Result was: 9
+
+Function "printer" was called on timestamp: 1603979165.5157604. 
+Result was: heyo
+
+Function "printer" was called on timestamp: 1603979190.2660687. 
+Result was: None
+
+Function "printer" was called on timestamp: 1604576250.9098413. 
+Result was: None
+
+Function "printer" was called on timestamp: 1604581877.6962729. 
+Result was: None
+
+Function "printer" was called on timestamp: 1604581982.6932096. 
+Result was: None
+
+Function "add" was called on timestamp: 1604581982.6997633. 
+Result was: 9
+
+Function "add" was called on timestamp: 1607783144.0630095. 
+Result was: 9
+
+Function "printer" was called on timestamp: 1607783144.08478. 
+Result was: None
+
