@@ -79,7 +79,7 @@ p = Pig()
 
 board = Board(b, p)
 
-while(True):
+while True:
     board.updateBoard()
     move = input()
     b.move(move)
